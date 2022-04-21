@@ -1,5 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
+  margin-top: 10%;
+}
+body{
+  background-color:  rgb(90, 115, 150);
+}
+.h1{
+  margin: 15px;
+  color: aliceblue;
+}
+.link{
+  color: rgb(29, 31, 33);
+  font-size: 30px;
+  color: antiquewhite;
+}
+.tage{
+ color: #282c34;
+ text-shadow: #61dafb;
+}
+.btn{
+ padding: 10px;
+ margin: 2%;
+ color: wheat;
+ font-size: 20px;
+ background-color: #282c34;
+ border-radius: 10px;
+ box-shadow: 0,0, 5px, 5px;
+}
+.in{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  color: aliceblue;
+  font-size: 20px;
+  background-color: #282c34;
 }
 
 .App-logo {
